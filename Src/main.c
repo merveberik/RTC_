@@ -4,8 +4,7 @@
 #include "rtc.h"
 #include "gpio.h"
 
-uint8_t init_RTC = 0;;
-
+uint8_t init_RTC = 0;
 
 RTC_TimeTypeDef sTime;
 RTC_DateTypeDef sDate;
