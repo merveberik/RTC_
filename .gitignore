@@ -1,0 +1,12 @@
+*.elf
+*.o
+*.su
+*.hex
+*.bin
+*.lst
+*.list
+*.map
+*.jvs
+*.jsv
+*.swj
+
